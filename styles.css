@@ -5,6 +5,9 @@
     padding: 20px;
     border: 2px solid black;
     border-radius: 10px;
+	display:flex;
+	align-items:center;
+	justify-content:center
 }
 .red, .green, .yellow {
     display: inline-block;
